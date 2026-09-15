@@ -1,0 +1,18 @@
+# 音频与原始转写数据不上传（版权 + 体积）
+audio/
+models/
+*.m4a
+transcripts.json
+translations.json
+audio_meta.json
+audio_manifest.json
+tracks.json
+all_en.txt
+
+# 脚本
+*.py
+ab_open.log
+
+# 系统
+.DS_Store
+Thumbs.db
